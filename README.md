@@ -3,9 +3,9 @@
 [__Новости в дзен__](https://dzen.ru)   
 ## Хрень какая - то в заголовок
 
-    - first commit;   
-    - learn git;
-    - second commit. 
+- first commit;   
+- learn git;
+- second commit. 
 
     # Дока
 
